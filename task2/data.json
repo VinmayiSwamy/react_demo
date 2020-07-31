@@ -1,0 +1,31 @@
+{
+	"details":{
+		"name":"Vinmayi Swamy",
+		"email":"vinmayiswamy5@gmail.com",
+		"phone":9705551157,
+		"address":"Guntur",
+		"image":"image-profile.png"
+	},
+	"hobbies":[
+		"Reading books","solving puzzles","coding","playing chess"
+	],
+	"education":[
+		{
+			"name":"MCA",
+			"college":"Vignan Degree and PG College"
+		},
+		{
+			"name":"BCA",
+			"college":"The Bapatla College of Arts and Science"
+		}
+	,
+	{
+			"name":"Intermediate",
+			"college":"A S M Girls Junior College"
+		},
+		{
+			"name":"SSC",
+			"college":"Sai Adarsha Public School"
+		}
+	]
+}
