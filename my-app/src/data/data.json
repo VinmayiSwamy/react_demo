@@ -1,0 +1,22 @@
+{
+    "details":[
+        {
+            "profile":{
+                "name": "Vinmayi",
+                "role": "Student",
+                "mobile": "9999999999",
+                "email": "vinmayi@gmail.com"
+            },
+            "careerObj":"I want to become React developer"
+        },
+        {
+            "profile":{
+                "name": "Swamy",
+                "role": "Student",
+                "mobile": "9090909090",
+                "email": "swamy@gmail.com"
+            },
+            "careerObj":"I want to become React developer"
+        }
+    ]
+}
